@@ -39,6 +39,10 @@ node src/server.js
 
 http://localhost:8000/hello
 
+<h3> JSON Req </h3>
 
+{
+    "name" : "Anky"
+}
 
 
