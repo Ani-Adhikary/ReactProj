@@ -23,8 +23,17 @@ npm start
 
 npm install react-router-dom
 
-<h3> Express Server </h3>
+<h2> Backend </h2>
 
+<h3>Create a folder for Backend code</h3>
+
+Initialize it using the below command
+
+npm init -y
+
+<h3>Install Express</h3>
 npm install express
+
+
 
 
