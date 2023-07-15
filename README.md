@@ -37,6 +37,8 @@ npm install express
 <h3>Start the Server</h3>
 node src/server.js
 
+http://localhost:8000/hello
+
 
 
 
