@@ -34,6 +34,9 @@ npm init -y
 <h3>Install Express</h3>
 npm install express
 
+<h3>Start the Server</h3>
+node src/server.js
+
 
 
 
