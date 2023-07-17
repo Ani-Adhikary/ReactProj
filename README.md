@@ -45,4 +45,12 @@ http://localhost:8000/hello
     "name" : "Anky"
 }
 
+<h2>HomeBrew</h2>
+
+https://brew.sh/
+
+<h2>MongoDB</h2>
+
+https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/
+
 
