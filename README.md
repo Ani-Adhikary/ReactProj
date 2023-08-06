@@ -4,6 +4,11 @@
 
 <img width="623" alt="NodeLocn" src="https://user-images.githubusercontent.com/33363003/230944300-0ae567d7-c6b7-47ef-b7c3-7ff90d89f06c.png">
 
+<h4>Go to root folder to find node</h4>
+cd /
+
+https://medium.com/macoclock/update-your-node-js-on-your-mac-in-2020-948948c1ffb2
+
 
 <h2>Commands </h2>
 
