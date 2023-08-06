@@ -7,7 +7,8 @@
 <h4>Go to root folder to find node</h4>
 cd /
 
-<h4>Medium</h4>
+<h4>Medium </h4>
+
 https://medium.com/macoclock/update-your-node-js-on-your-mac-in-2020-948948c1ffb2
 
 
